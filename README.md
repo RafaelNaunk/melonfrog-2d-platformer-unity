@@ -93,10 +93,11 @@ Projeto individual desenvolvido para a disciplina de Game Development — UniFEC
 
 ## 📂 Estrutura do repositório
 
+MelonFrog.zip - v1.0 Release - Build executável (Windows)
+
 ```
 ├── Assets/              # Scripts (C#), sprites, áudios e cenas
 ├── ProjectSettings/     # Configurações do projeto Unity
 ├── Prints/              # Capturas de tela do jogo e das fases
-├── MelonFrog.zip        # Build executável (Windows)
 └── README.md
 ```
